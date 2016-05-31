@@ -1,0 +1,10 @@
+body #wrapper, body {
+  background: none;
+}
+
+body #header h1 {
+  background: url(/themes/alial/images/alial-logo.png) left center no-repeat;
+  color:#333;
+  font-size:50px;
+  padding-left:170px;
+}
